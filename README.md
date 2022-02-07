@@ -1,4 +1,4 @@
 # Localization
 
-![This is an image](assets/readme/img.png)
-![This is an image](assets/readme/img_1.png)
+![This is an image](assets/readme/first_assignment.png)
+![This is an image](assets/readme/second_assignment.png)
